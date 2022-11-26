@@ -1,2 +1,2 @@
-# v14-Yetkili-Ba-vuru
+# v14-Yetkili-Basvuru
 v14 Yetkili Başvuru
