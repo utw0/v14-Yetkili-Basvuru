@@ -1,5 +1,5 @@
 # v14-Yetkili-Basvuru
-⦁ V14 Modallı Butonlu Yetkili Başvuru Botu
+⦁ V14 Modallı Butonlu Yetkili Başvuru Botu<br>
 ⦁ luhux#1940
 # Örnek Resimler
 ![image](https://user-images.githubusercontent.com/74924310/204107594-0a7c3b9e-ea70-4357-b0e8-46b44c4faec4.png)<br>
